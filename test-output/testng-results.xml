@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-11T18:17:21 IST" name="BOM Weather App  Tests Suite" finished-at="2023-01-11T18:17:25 IST" duration-ms="4564">
+    <groups>
+    </groups>
+    <test started-at="2023-01-11T18:17:21 IST" name="BOM Weather App  End-ENd tests" finished-at="2023-01-11T18:17:25 IST" duration-ms="4564">
+      <class name="com.prospection.assignment.TestCases.TestWeatherView">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.prospection.assignment.TestCases.TestWeatherView@52af26ee]" started-at="2023-01-11T18:17:21 IST" name="setUp" finished-at="2023-01-11T18:17:24 IST" duration-ms="3517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestBrowser()[pri:0, instance:com.prospection.assignment.TestCases.TestWeatherView@52af26ee]" started-at="2023-01-11T18:17:24 IST" name="TestBrowser" finished-at="2023-01-11T18:17:25 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBrowser -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.prospection.assignment.TestCases.TestWeatherView@52af26ee]" started-at="2023-01-11T18:17:25 IST" name="TearDown" finished-at="2023-01-11T18:17:25 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.prospection.assignment.TestCases.TestWeatherView -->
+    </test> <!-- BOM Weather App  End-ENd tests -->
+  </suite> <!-- BOM Weather App  Tests Suite -->
+</testng-results>

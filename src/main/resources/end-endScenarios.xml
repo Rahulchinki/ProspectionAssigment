@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BOM Weather App  Tests Suite">
+ <test name="BOM Weather App  End-ENd tests">
+ <classes>
+ <class name="com.prospection.assignment.TestCases.TestWeatherView"></class>
+ </classes>
+ 
+ </test>
+ </suite>
