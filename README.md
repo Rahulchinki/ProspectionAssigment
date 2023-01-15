@@ -30,4 +30,6 @@ TestNG
   Extent Reports.  
 
 
+Reports will be generated in test-output folder Refer to ExtentReport.html or emailable-report.html after execution
+
     
