@@ -1,5 +1,5 @@
 
-# ProsPection QA Assignment
+# Prospection QA Assignment
 
 A simple End-End User Journey Automated for Prospection QA assignment on Weather app http://www.bom.gov.au/places/nsw/sydney/
 
