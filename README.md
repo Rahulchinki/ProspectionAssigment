@@ -15,19 +15,19 @@ This is a very simple project made out to automate the end-end journey mentioned
 
 
 ## Installation
- git clone https://github.com/Rahulchinki/ProspectionAssignment
- cd PageObjectModel
- mvn clean test
+ git clone https://github.com/Rahulchinki/ProspectionAssignment  
+ cd PageObjectModel  
+ mvn clean test  
 
 #### Dependency 
-Java 
-Maven
-TestNG
+Java   
+Maven  
+TestNG  
 
 #### libraries used 
-  Selenium, 
-  TestNG,
-  Extent Reports.
+  Selenium,   
+  TestNG,  
+  Extent Reports.  
 
 ```
     
