@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.prospection.assigment.TestCases.TestWeatherView">
+      <class name="com.prospection.assignment.TestCases.TestWeatherView">
         <methods>
-          <include name="TestBrowser"/>
+          <include name="SearchandSaveLocations" invocation-numbers="0 1"/>
           <include name="TearDown"/>
+          <include name="ForgetSavedLocations"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.prospection.assigment.TestCases.TestWeatherView -->
+      </class> <!-- com.prospection.assignment.TestCases.TestWeatherView -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
