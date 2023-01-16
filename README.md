@@ -16,7 +16,7 @@ This is a very simple project made out to automate the end-end journey mentioned
 
 ## Installation
  git clone https://github.com/Rahulchinki/ProspectionAssignment  
- cd PageObjectModel  
+ cd ProspectionAssignment  
  mvn clean test  
 
 #### Dependency 
